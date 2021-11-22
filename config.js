@@ -3,20 +3,20 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['']//TARUH DISINI LINK GRUP MU
 
-global.owner = ['6282328303332','6285729191215'] // Owner
-global.mods = ['6283190403329'] // moderator
-global.prems = ['6282328303332','6285876347141','6283190403329','62895801224266','6281273157920']  //premium
+global.owner = ['60102810046','436507776335335'] // Owner
+global.mods = ['60102810046'] // moderator
+global.prems = ['60102810046','6285718146858','436507776335335','62895801224266','6281273157920']  //premium
 global.wait = '[ ❗ ] Wait'
 global.eror = '[ ❗ ] EROR FEATURE'
 global.apiloss = '[ ❗ ] APIKEY HABIS HUBUNGI OWNER UNTUK MENAMBAH LIMIT APIKEY'
 
 //Simpel Api
-global.apiLol = 'PutYourApikeyHere'//TARUH APIKEY//PUT YOUR APIKEY HERE
+global.apiLol = '4ef1b11287339c1b10699ece'//TARUH APIKEY//PUT YOUR APIKEY HERE
 global.webLol = 'https://api.lolhuman.xyz/api/'
 //
 
 //BOT WM
-global.botwm = 'RainXyz'//Change This to your name bot
+global.botwm = '×͜× Aiman 亗ᴮᵒᵗ'//Change This to your name bot
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,7 +34,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'putyourapikey',//MASUKKAN APIKEY
+  'https://api.xteam.xyz': 'UGwqFfEQ',//MASUKKAN APIKEY
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
@@ -44,8 +44,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'i hope you\'re fine'//GANTI WM MU
-global.author = '@RainBotOfficial'
+global.packname = '*͘⁴̅⁰͍⁴̵〆*\'re fine'//GANTI WM MU
+global.author = '@botOfficial'
 
 global.multiplier = 39 // The higher, The harder levelup
 
